@@ -1,0 +1,14 @@
+#table {
+    display: table;
+    background-color: grey;
+   }
+
+.row {
+    display: table-row;
+}
+
+.cell {
+    display: table-cell;
+    border: 3px solid rgb(119, 15, 15);
+    padding: 15px;
+}
